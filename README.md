@@ -2,9 +2,10 @@
 
 Website for the south african band "the vanilla band"
 
-<blockquote>Type: University South Africa
-Semester: 5 (2015)
-Skills: Concept, 3D, Print, InDesign, Illustrator, Web, HTML, CSS, JavaScript</blockquote>
+> Type: University South Africa  
+> Semester: 5 (2015)  
+> Skills: Concept, 3D, Print, InDesign, Illustrator, Web, HTML, CSS, JavaScript
+
 our last project in South Africa, a local band called the vanilla approached us wanting a design for their b(r)and. They already had a logo and a Facebook page. Since I liked the concept of their old logo I decided to redesign it (make it better) instead of completely changing it. It is now more creamy and vanilla like than before.
 
 Some keywords describing the band where: beach, summer, fun, sun, youth, happy, ice, good times, friendship, flow and so on. I came up with the best way to join these vibes into the brand by having nice beach colors (while reducing their original color palette) with a great creamy logo and awesome mood pictures (which would eventually be replaced by nice photos of band concerts and fans as soon as available). Have a look.
